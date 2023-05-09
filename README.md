@@ -13,3 +13,8 @@ Find the golden key and unlock the door to the red room!
 * Another challenge was making sure users couldn't peek through walls by leaning into them which would defeat a maze. By setting the teleportation grid far enough away from walls, if a user leans forward, the guardian switches to pass-through. However, this work around could be defeated by changing the guardian boundary and wouldn't work if locomotion included continuous move.
 * To make the maze more challenging, the key could disappear after use, requiring the user to go back and retrieve another key if they used it on the wrong door. But this could be annoying for a demo level.
 * I included an exe in the Builds folder if the Editor hangs on Application.EnterPlayMode. I had mixed results with the Editor compiling the downloaded source, most likely due to conflicts with the Oculus app / Meta Link.
+* The playthrough was not screencast to YouTube, Vimeo or otherwise; it was recorded directly on the Quest2
+* Requiring a screencast showing interactive behaviors gives away the location of the key, so it defeats the purpose of the maze :)
+
+## Demo
+https://user-images.githubusercontent.com/26263645/237039685-8a1afe0a-8e2d-4a90-a050-8abd640bfc9b.mp4
