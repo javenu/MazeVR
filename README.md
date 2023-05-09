@@ -2,7 +2,7 @@
  Maze VR project demonstrating the XR Interaction Toolkit
 
 ## Instructions
-Find the golden key and unlock the door to the red room
+Find the golden key and unlock the door to the red room!
 
 ## Screenshots
 <img src="https://github.com/javenu/MazeVR/blob/development/.github/Screenshots.jpg" width="800">
