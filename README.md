@@ -13,3 +13,17 @@ Find the golden key and unlock the door to the red room!
 * Another challenge was making sure users couldn't peek through walls by leaning into them which would defeat a maze. By setting the teleportation grid far enough away from walls, if a user leans forward, the guardian switches to pass-through. However, this work around could be defeated by changing the guardian boundary and wouldn't work if locomotion included continuous move.
 * To make the maze more challenging, the key could disappear after use, requiring the user to go back and retrieve another key if they used it on the wrong door. But this could be annoying for a demo level.
 * I included an exe in the Builds folder if the Editor hangs on Application.EnterPlayMode. I had mixed results with the Editor compiling the downloaded source, most likely due to conflicts with the Oculus app / Meta Link.
+
+## Learnings
+* Using the Office Assets to build a maze
+* Interactors, Interactables
+* ProGrids alignment
+* ProBuilder extruding
+* Layers vs Interaction Layers, how they combine
+* XR Direct Interacter
+* XR Ray Interactos
+* Using Triggers and Tags to open doors
+* Normals on walls
+* Teleportion Areas
+* Logging Interactions to the console
+
