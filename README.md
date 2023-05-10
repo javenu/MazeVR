@@ -15,15 +15,16 @@ Find the golden key and unlock the door to the red room!
 * I included an exe in the Builds folder if the Editor hangs on Application.EnterPlayMode. I had mixed results with the Editor compiling the downloaded source, most likely due to conflicts with the Oculus app / Meta Link.
 
 ## Learnings
-* Using the Office Assets to build a maze
+* Using the Simple Office Assets to build a maze
 * Interactors, Interactables
 * ProGrids alignment
 * ProBuilder extruding
-* Layers vs Interaction Layers, how they combine
+* Layers vs Interaction Layers Masks, how they combine
 * XR Direct Interacter
 * XR Ray Interactos
 * Using Triggers and Tags to open doors
 * Normals on walls
 * Teleportion Areas
 * Logging Interactions to the console
+
 
